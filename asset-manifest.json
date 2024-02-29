@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mocktails_project/public/static/css/main.1f145932.css",
-    "main.js": "/mocktails_project/public/static/js/main.c8072151.js",
-    "static/js/453.d86228a1.chunk.js": "/mocktails_project/public/static/js/453.d86228a1.chunk.js",
-    "index.html": "/mocktails_project/public/index.html",
-    "main.1f145932.css.map": "/mocktails_project/public/static/css/main.1f145932.css.map",
-    "main.c8072151.js.map": "/mocktails_project/public/static/js/main.c8072151.js.map",
-    "453.d86228a1.chunk.js.map": "/mocktails_project/public/static/js/453.d86228a1.chunk.js.map"
+    "main.css": "/mocktails_project/static/css/main.1f145932.css",
+    "main.js": "/mocktails_project/static/js/main.100a2012.js",
+    "static/js/453.d86228a1.chunk.js": "/mocktails_project/static/js/453.d86228a1.chunk.js",
+    "index.html": "/mocktails_project/index.html",
+    "main.1f145932.css.map": "/mocktails_project/static/css/main.1f145932.css.map",
+    "main.100a2012.js.map": "/mocktails_project/static/js/main.100a2012.js.map",
+    "453.d86228a1.chunk.js.map": "/mocktails_project/static/js/453.d86228a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f145932.css",
-    "static/js/main.c8072151.js"
+    "static/js/main.100a2012.js"
   ]
 }
